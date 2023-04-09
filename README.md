@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuba Karan</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
-<img align="right" alt=" width="400" coding"src="https://cdn.mycplus.com/mycplus/wp-content/uploads/2020/02/programming_tips.jpg"/>
+<img align="right" alt="coding" width="400" src="https://cdn.mycplus.com/mycplus/wp-content/uploads/2020/02/programming_tips.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo895&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo895" /> </p>
 
